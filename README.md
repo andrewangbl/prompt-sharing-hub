@@ -4,6 +4,8 @@
 Prompt Hub is an open-source AI prompting tool for discovering, creating, and sharing AI prompts.
 Prompt Hub is built on Next.js along with a comprehensive CRUD Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
 
+![homepage](./pictures/homepage.png)
+
 ## Technologies Used
 - Next.js
 - MongoDB
@@ -12,19 +14,26 @@ Prompt Hub is built on Next.js along with a comprehensive CRUD Prompt sharing sy
 
 ## Features
 
-👉 **Discover and Share AI Prompts**: Allow users to discover AI prompts shared by the community and create their own prompts to share with the world.
+**Discover and Share AI Prompts**: Allow users to discover AI prompts shared by the community and create their own prompts to share with the world.
 
-👉 **Edit and Delete Created Prompts**: Users have the ability to edit their created prompts and delete them when needed.
+![create-post](./pictures/createpost.png)
 
-👉 **Profile Page**: Each user gets a dedicated profile page showcasing all the prompts they've created, providing an overview of their contributions.
+**Edit and Delete Created Prompts**: Users have the ability to edit their created prompts and delete them when needed.
 
-👉 **View Other People's Profiles**: Users can explore the profiles of other creators to view the prompts they've shared.
+![edit-post](./pictures/editpost.png)
 
-👉 **Copy to Clipboard**: Implement a convenient "Copy to Clipboard" functionality for users to easily copy the AI prompts for their use.
 
-👉 **Google Authentication using NextAuth**: Enable secure Google authentication using NextAuth, ensuring a streamlined and trustworthy login experience.
+**Profile Page**: Each user gets a dedicated profile page showcasing all the prompts they've created, providing an overview of their contributions.
 
-👉 **Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones
+![userprofile](./pictures/userprofile.png)
+
+**Copy to Clipboard**: Implement a convenient "Copy to Clipboard" functionality for users to easily copy the AI prompts for their use.
+
+
+**Google Authentication using NextAuth**: Enable secure Google authentication using NextAuth, ensuring a streamlined and trustworthy login experience.
+
+
+**Responsive Website**: Develop a fully responsive website to ensure optimal user experience across various devices, from desktops to smartphones
 
 
 ## Getting Started
